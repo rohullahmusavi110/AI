@@ -1,0 +1,13 @@
+month,region,product,sales,profit,customers,advertising
+January,North,Laptop,120,25,30,10
+February,South,Mobile,150,35,42,15
+March,East,Tablet,100,18,25,8
+April,West,Laptop,180,40,48,18
+May,North,Mobile,170,38,45,16
+June,South,Tablet,130,24,32,12
+July,East,Laptop,200,48,55,20
+August,West,Mobile,190,45,52,19
+September,North,Tablet,160,32,40,14
+October,South,Laptop,220,55,60,22
+November,East,Mobile,210,52,58,21
+December,West,Tablet,175,39,46,17
