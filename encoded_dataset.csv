@@ -1,0 +1,13 @@
+month,sales,profit,customers,advertising,region_East,region_North,region_South,region_West,product_Laptop,product_Mobile,product_Tablet
+January,120,25,30,10,0,1,0,0,1,0,0
+February,150,35,42,15,0,0,1,0,0,1,0
+March,100,18,25,8,1,0,0,0,0,0,1
+April,180,40,48,18,0,0,0,1,1,0,0
+May,170,38,45,16,0,1,0,0,0,1,0
+June,130,24,32,12,0,0,1,0,0,0,1
+July,200,48,55,20,1,0,0,0,1,0,0
+August,190,45,52,19,0,0,0,1,0,1,0
+September,160,32,40,14,0,1,0,0,0,0,1
+October,220,55,60,22,0,0,1,0,1,0,0
+November,210,52,58,21,1,0,0,0,0,1,0
+December,175,39,46,17,0,0,0,1,0,0,1
